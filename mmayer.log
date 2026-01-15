@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  15 JAN 2026 20:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  15 JAN 2026 23:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1215,12 +1215,8 @@ File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 39.
 )
-Overfull \hbox (5.12465pt too wide) in paragraph at lines 94--104
-[]\T1/lato-TLF/m/n/10 A highly mo-ti-vated Com-puter Sci-ence grad-u-ate with proven 
- []
-
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 111.
+(Font)              scaled to size 9.0pt on input line 107.
 
 
 [1
@@ -1228,17 +1224,37 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 {C:/Users/rjvie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_cl4kdn.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lato/a_rt66h3.enc}
 
 ] (page2sidebar.tex
-Underfull \hbox (badness 1320) in paragraph at lines 5--19
+Underfull \hbox (badness 2680) in paragraph at lines 5--20
 []  [] 
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 5--19
+Underfull \hbox (badness 3148) in paragraph at lines 5--20
+[]  [] 
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 5--20
 [] 
  []
 
 
-Underfull \hbox (badness 5939) in paragraph at lines 5--19
+Underfull \hbox (badness 10000) in paragraph at lines 5--20
+[] 
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 5--20
+[]  [] 
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 5--20
+[] 
+ []
+
+
+Underfull \hbox (badness 5175) in paragraph at lines 5--20
 []  [] 
  []
 
@@ -1256,13 +1272,13 @@ Package logreq Info: Writing requests to 'mmayer.run.xml'.
 Here is how much of TeX's memory you used:
  27455 strings out of 468080
  579619 string characters out of 5425771
- 1428605 words of memory out of 5000000
+ 1432605 words of memory out of 5000000
  55692 multiletter control sequences out of 15000+600000
  918125 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,13n,121p,1237b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Bold.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on mmayer.pdf (2 pages, 96559 bytes).
+Output written on mmayer.pdf (2 pages, 97470 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
