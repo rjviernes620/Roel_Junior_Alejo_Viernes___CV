@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber mmayer"] 1768409951.29572 "mmayer.bcf" "mmayer.bbl" "mmayer" 1768519254.21698 0
-  "mmayer.bcf" 1768519253 108202 5411f5690c4731bf457720e2e4d430fa "pdflatex"
+["biber mmayer"] 1768409951.29572 "mmayer.bcf" "mmayer.bbl" "mmayer" 1769043944.34956 0
+  "mmayer.bcf" 1769043943 108202 5411f5690c4731bf457720e2e4d430fa "pdflatex"
   "sample.bib" 1762734624 1341 c823affc537ead803567116cf04eef51 ""
   (generated)
   "mmayer.bbl"
   "mmayer.blg"
   (rewritten before read)
-["pdflatex"] 1768519251.72559 "c:/Users/rjvie/Desktop/Roel_Junior_Alejo_Viernes___CV/mmayer.tex" "mmayer.pdf" "mmayer" 1768519254.21804 0
+["pdflatex"] 1769043941.25129 "c:/Users/rjvie/Desktop/Roel_Junior_Alejo_Viernes___CV/mmayer.tex" "mmayer.pdf" "mmayer" 1769043944.35176 0
   "C:/Users/rjvie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762736077 155501 69c64e18682da23b3f73def6a45c9d78 ""
   "C:/Users/rjvie/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762735634 13321868 7090fcb0d45f2d8208035871358bb24c ""
   "C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1463869852 2437 443c81fb50993bacedc5f9a206c322b0 ""
@@ -177,13 +177,13 @@
   "C:/Users/rjvie/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/rjvie/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "altacv.cls" 1762734624 11083 678cec1f58ab5d10489ea1a2911a28c2 ""
-  "c:/Users/rjvie/Desktop/Roel_Junior_Alejo_Viernes___CV/mmayer.tex" 1768519250 9866 3cdf292a4dc61462108e7d60da92acde ""
-  "mmayer.aux" 1768519253 168 858f647014003f7a72af16b25f4db93e "pdflatex"
+  "c:/Users/rjvie/Desktop/Roel_Junior_Alejo_Viernes___CV/mmayer.tex" 1769043939 10703 22a747d31603804edbb9a449f1bbb0da ""
+  "mmayer.aux" 1769043943 168 117b3502fc661f028062d09c5839ddac "pdflatex"
   "mmayer.bbl" 1768409954 9508 c6919d1ab449d4aef87adf3fd92190d8 "biber mmayer"
-  "mmayer.run.xml" 1768519253 2321 e3fa057adc14515df072a9ac66a016d7 "pdflatex"
-  "mmayer.tex" 1768519250 9866 3cdf292a4dc61462108e7d60da92acde ""
+  "mmayer.run.xml" 1769043943 2321 e3fa057adc14515df072a9ac66a016d7 "pdflatex"
+  "mmayer.tex" 1769043939 10703 22a747d31603804edbb9a449f1bbb0da ""
   "page1sidebar.tex" 1766424597 1728 2a31cd3cf262ff678be9097de0d61ed2 ""
-  "page2sidebar.tex" 1768519198 1172 71dc1f9dbc19adeca185b1ead8ddc013 ""
+  "page2sidebar.tex" 1768838411 1167 e88282a804debae279910129bbc0a517 ""
   (generated)
   "mmayer.aux"
   "mmayer.bcf"
