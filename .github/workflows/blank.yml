@@ -1,0 +1,30 @@
+name: Sync specific PDFs
+
+on:
+  push:
+    paths:
+      - Roel_Junior_Alejo_Viernes___CV - Tech/mmayer_tech.pdf
+      - Roel_Junior_Alejo_Viernes___CV - Social Media/mmayer_SM.pdf
+      - Roel_Junior_Alejo_Viernes___CV - Other/mmayer_AD.pdf       # glob patterns work [web:43][web:59]
+    branches:
+      - main
+
+jobs:
+  sync-pdfs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Copy PDFs to other repo
+        uses: dobbelina/multi_file_bandit@main    # [web:59]
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.B_SYNC }}
+        with:
+          # comma-separated list, accepts globs per docs [web:59]
+          source_file: 'Roel_Junior_Alejo_Viernes___CV - Tech/mmayer_tech.pdf,Roel_Junior_Alejo_Viernes___CV - Social Media/mmayer_SM.pdf,Roel_Junior_Alejo_Viernes___CV - Other/mmayer_AD.pdf'
+          destination_repo: 'rjviernes620/web'
+          destination_folder: ''                   # root of Repo B, or set a folder
+          user_email: 'rjviernes620@gmail.com'
+          user_name: 'AlsoJunJun'
+          commit_message: 'Put uptodateCV from edit'
