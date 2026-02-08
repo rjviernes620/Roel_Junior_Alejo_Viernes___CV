@@ -24,7 +24,7 @@ jobs:
           # comma-separated list, accepts globs per docs [web:59]
           source_file: 'Roel_Junior_Alejo_Viernes___CV - Tech/mmayer_tech.pdf,Roel_Junior_Alejo_Viernes___CV - Social Media/mmayer_SM.pdf,Roel_Junior_Alejo_Viernes___CV - Other/mmayer_AD.pdf'
           destination_repo: 'rjviernes620/web'
-          destination_folder: ''                   # root of Repo B, or set a folder
+          destination_folder: 'assets/CV'                   # root of Repo B, or set a folder
           user_email: 'rjviernes620@gmail.com'
           user_name: 'AlsoJunJun'
-          commit_message: 'Put uptodateCV from edit'
+          commit_message: 'Put uptodate CV from edit repo'
