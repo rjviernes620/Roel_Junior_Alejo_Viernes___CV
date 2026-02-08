@@ -1,0 +1,209 @@
+%%%%%%%%%%%%%%%%%
+% This is an example CV created using altacv.cls (v1.1.5, 1 December 2018) written by
+% LianTze Lim (liantze@gmail.com), based on the
+% Cv created by BusinessInsider at http://www.businessinsider.my/a-sample-resume-for-marissa-mayer-2016-7/?r=US&IR=T
+%
+%% It may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.
+%% The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2003/12/01 or later.
+%%%%%%%%%%%%%%%%
+
+%% If you are using \orcid or academicons
+%% icons, make sure you have the academicons
+%% option here, and compile with XeLaTeX
+%% or LuaLaTeX.
+% \documentclass[10pt,a4paper,academicons]{altacv}
+
+%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
+% \documentclass[10pt,a4paper,normalphoto]{altacv}
+
+\documentclass[10pt,a4paper,ragged2e]{altacv}
+
+%% AltaCV uses the fontawesome and academicon fonts
+%% and packages.
+%% See texdoc.net/pkg/fontawecome and http://texdoc.net/pkg/academicons for full list of symbols. You MUST compile with XeLaTeX or LuaLaTeX if you want to use academicons.
+
+% Change the page layout if you need to
+\geometry{left=2cm,right=10cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.25cm,bottom=1.25cm}
+
+% Change the font if you want to, depending on whether
+% you're using pdflatex or xelatex/lualatex
+\ifxetexorluatex
+  % If using xelatex or lualatex:
+  \setmainfont{Carlito}
+\else
+  % If using pdflatex:
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage[default]{lato}
+\fi
+
+% Change the colours if you want to
+\definecolor{VividPurple}{HTML}{000000}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{2E2E2E}
+\colorlet{heading}{VividPurple}
+\colorlet{accent}{VividPurple}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+
+%% sample.bib contains your publications
+\addbibresource{sample.bib}
+
+\begin{document}
+\name{Roel-Junior Alejo Viernes}
+\tagline{Computer Science BSc (Hons) Graduate}
+% Cropped to square from https://en.wikipedia.org/wiki/Marissa_Mayer#/media/File:Marissa_Mayer_May_2014_(cropped).jpg, CC-BY 2.0
+%\photo{3.3cm}{profile.jpg}
+\personalinfo{%
+  % Not all of these are required!
+  % You can add your own with \printinfo{symbol}{detail}
+  \homepage{www.rjviernes.tech}
+%   \phone{000-00-0000}
+%  \mailaddress{Address, Street, 00000 County}
+  \location{London, United Kingdom}
+%  \homepage{marissamayr.tumblr.com/}
+%  \twitter{@marissamayer}
+   \github{github.com/rjviernes620} % I'm just making this up though.
+%   \orcid{orcid.org/0000-0000-0000-0000} % Obviously making this up too. If you want to use this field (and also other academicons symbols), add "academicons" option to \documentclass{altacv}
+ \linkedin{linkedin.com/in/rjviernes620}
+}
+%% Make the header extend all the way to the right, if you want.
+\begin{fullwidth}
+\makecvheader
+\end{fullwidth}
+
+%% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+\AtBeginEnvironment{itemize}{\small}
+
+%% Provide the file name containing the sidebar contents as an optional parameter to \cvsection.
+%% You can always just use \marginpar{...} if you do
+%% not need to align the top of the contents to any
+%% \cvsection title in the "main" bar.
+
+\cvsection[page1sidebar]{Personal Statement}
+I’m a highly motivated Computer Science graduate with
+proven expertise in social media content creation (including
+UGC content), technical project development and
+management, and leadership within academic and ambassadorial
+roles. I’m skilled in conceptualising and producing
+content for marketing campaigns, with hands-on
+experience in video production, editing, and content management
+for the University of Greenwich. Adaptable and
+effective in multidisciplinary environments, with a track
+record of engaging with diverse stakeholders, leading
+student societies, and excelling in both independent and
+team-based projects. Recognised for innovative problem
+solving, a passion for technology integration and automations,
+and a commitment to advancing digital engagement
+and technical excellence in every role I’ve undertaken.
+\\
+
+
+
+\cvsection{Projects \& Campaigns}
+\smallskip
+\begin{itemize}\item
+\textbf{{Clearing - 2024}} \\
+\begin{itemize}
+  \item Played a key role in the 2024 \& 2025 University Clearing campaign for the Faculty of Engineering and Science.
+  \item Created short-form videos showcasing faculty benefits, student testimonials, and campus facilities.
+  \item Managed content for the faculty’s social media platforms, ensuring strong audience engagement.
+  \item Collaborated with the marketing team to align all materials with university brand guidelines and core messages.
+\end{itemize}
+
+\smallskip
+\item \textbf{University Open Day Guides w/ NFC Tags} \\
+To assist prospective students during the University Open Days whilst upholding the university's commitment to 
+sustainability. I introduced a new interaction framework where staff members would have NFC tags linking towards
+a digital guide for the Unviersity and the relevant event. This reduced the need for printed materials and 
+allowed for easy access to information via smartphones whilst also providing a modern and interactive experience for visitors.
+\item \textbf{University Events (Open Day + Outreach)} \\
+I have also participated and assisted in the organisation, running and the marketing of various University and Faculty events including
+Open Days and Outreach programs. During these events, I took on roles such as guiding
+prospective students, providing information about courses and campus life,
+and assisting with event logistics. My involvement in these events has helped me develop strong communication
+and interpersonal skills, as well as a deeper understanding of the university's offerings and student needs.
+\end{itemize}
+
+
+
+\newpage
+\cvsection[page2sidebar]{Experience}
+
+\cvevent{Faculty Social Media Assistant}{University of Greenwich}{June 2023 - Oct 2025}{Greenwich, London}
+\begin{itemize}
+\item  Conceptualised and produced technical video content for the Faculty of Engineering \& Science, managing the full production lifecycle from storyboarding to final render.
+\item Collaborated with technical stakeholders (Professors, Researchers) to translate complex engineering concepts into accessible digital content, demonstrating the ability to bridge the gap between deep tech and user experience.
+\item Managed the Social Media channels for the Faculty, Maintained brand consistency across multiple platforms, ensuring high-fidelity output for major university campaigns (Clearing, Open Days).
+\item I've additionally participated within the content creation for various marketing campaigns in the University (Inc. Clearing, Open Days etc.) as well as starred in the University's Profile video for the Computer Science suite of degrees on YouTube.\end{itemize}
+
+\divider
+
+\cvevent{Student Ambassador}{University of Greenwich}{Oct 2022 -- Oct 2025}{Greenwich, London}
+\begin{itemize}
+\item This role had allowed me to work for multiple different departments within the University including UK Student Recruitment, Outreach as well as roles within my own faculty. I had to constantly adapt my workflow and stance to appease the different stakeholders that I worked with as well as ensuring the  I've furtherly received the University of Greenwich Instrumental Ambassador Award in 2024 for the contributions I've made in my role to the Scheme as a whole.
+
+\end{itemize}
+
+\divider
+
+\cvevent{Teacher Assistant}{Brompton Academy}{Jan 2022 - Jul 2022}{Gillingham, Kent}
+\begin{itemize}
+\item As a Teacher Assistant for Brompton Academy, I was responsible for supporting Year 10 students with their learning in Business Studies. I assisted in lesson preparation, provided one-on-one support to students, and helped manage classroom activities to create a positive learning environment.
+\end{itemize}
+
+
+%\cvevent{Product Engineer}{Google}{23 June 1999 -- 2001}{Palo Alto, CA}
+
+% \begin{itemize}
+% \item Joined the company as employe \#20 and female employee \#1
+% \item Developed targeted advertisement in order to use user's search queries and show them related ads
+% \end{itemize}
+
+%\cvsection{A Day of My Life}
+
+% Adapted from @Jake's answer from http://tex.stackexchange.com/a/82729/226
+% \wheelchart{outer radius}{inner radius}{
+% comma-separated list of value/text width/color/detail}
+% Some ad-hoc tweaking to adjust the labels so that they don't overlap
+% \wheelchart{1.5cm}{0.5cm}{%
+%   10/10em/accent!30/Sleeping \& dreaming about work,
+%   25/9em/accent!60/Public resolving issues with Yahoo!\ investors,
+%   5/13em/accent!10/\footnotesize\\[1ex]New York \& San Francisco Ballet Jawbone board member,
+%   20/15em/accent!40/Spending time with family,
+%   5/8em/accent!20/\footnotesize Business development for Yahoo!\ after the Verizon acquisition,
+%   30/9em/accent/Showing Yahoo!\ employees that their work has meaning,
+%   5/8em/accent!20/Baking cupcakes
+% }
+
+\nocite{*}
+
+% \printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=book]
+
+% \divider
+
+% \printbibliography[heading=pubtype,title={\printinfo{\faFileTextO}{Journal Articles}}, type=article]
+
+% \divider
+
+% \printbibliography[heading=pubtype,title={\printinfo{\faGroup}{Conference Proceedings}},type=inproceedings]
+
+% %% If the NEXT page doesn't start with a \cvsection but you'd
+% %% still like to add a sidebar, then use this command on THIS
+% %% page to add it. The optional argument lets you pull up the
+% %% sidebar a bit so that it looks aligned with the top of the
+% %% main column.
+% % \addnextpagesidebar[-1ex]{page3sidebar}
+
+
+\end{document}
