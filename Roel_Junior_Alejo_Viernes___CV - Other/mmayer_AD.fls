@@ -1,7 +1,7 @@
 PWD c:\Users\rjvie\Desktop\CV Edit Files\Roel_Junior_Alejo_Viernes___CV - Other
 INPUT C:\Users\rjvie\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\rjvie\Desktop\CV Edit Files\Roel_Junior_Alejo_Viernes___CV - Other\mmayer.tex
-OUTPUT mmayer.log
+INPUT c:\Users\rjvie\Desktop\CV Edit Files\Roel_Junior_Alejo_Viernes___CV - Other\mmayer_AD.tex
+OUTPUT mmayer_AD.log
 INPUT .\altacv.cls
 INPUT altacv.cls
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\extsizes\extarticle.cls
@@ -274,10 +274,10 @@ INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\lato\t1lato-tlf.fd
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Regular-T1-TLF.tfm
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\mmayer.aux
-INPUT .\mmayer.aux
-INPUT mmayer.aux
-OUTPUT mmayer.aux
+INPUT .\mmayer_AD.aux
+INPUT .\mmayer_AD.aux
+INPUT mmayer_AD.aux
+OUTPUT mmayer_AD.aux
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -289,12 +289,12 @@ INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
-OUTPUT mmayer.bcf
-INPUT mmayer.bbl
-INPUT .\mmayer.bbl
-INPUT .\mmayer.bbl
-INPUT .\mmayer.bbl
-INPUT mmayer.bbl
+OUTPUT mmayer_AD.bcf
+INPUT mmayer_AD.bbl
+INPUT .\mmayer_AD.bbl
+INPUT .\mmayer_AD.bbl
+INPUT .\mmayer_AD.bbl
+INPUT mmayer_AD.bbl
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Regular-T1-TLF.tfm
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-T1-TLF.tfm
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Regular-T1-TLF.tfm
@@ -321,7 +321,7 @@ INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\lato\ts1lato-tlf.fd
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Regular-TS1-TLF.tfm
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome\FontAwesome--fontawesometwo.tfm
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-T1-TLF.tfm
-OUTPUT mmayer.pdf
+OUTPUT mmayer_AD.pdf
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-Bold-T1-TLF.vf
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-T1-TLF--base.tfm
 INPUT C:\Users\rjvie\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
@@ -358,9 +358,9 @@ INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontaw
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontawesomethree.fd
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome\FontAwesome--fontawesomethree.tfm
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome\fontawesomethree.enc
-INPUT mmayer.aux
-INPUT mmayer.run.xml
-OUTPUT mmayer.run.xml
+INPUT mmayer_AD.aux
+INPUT mmayer_AD.run.xml
+OUTPUT mmayer_AD.run.xml
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\type1\public\fontawesome\FontAwesome.pfb
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\type1\public\fontawesome\FontAwesome.pfb
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\type1\typoland\lato\Lato-Bold.pfb
