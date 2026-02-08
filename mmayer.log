@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  22 JAN 2026 01:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  4 FEB 2026 22:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/rjvie/Desktop/Roel_Junior_Alejo_Viernes___CV/mmayer.tex
-(c:/Users/rjvie/Desktop/Roel_Junior_Alejo_Viernes___CV/mmayer.tex
+**"c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - Tech/mmayer.tex"
+(c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - Tech/mmayer.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
 (altacv.cls
@@ -1256,14 +1256,14 @@ Package logreq Info: Writing requests to 'mmayer.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  27455 strings out of 468080
- 579619 string characters out of 5425771
- 1432604 words of memory out of 5000000
+ 579856 string characters out of 5425771
+ 1433605 words of memory out of 5000000
  55692 multiletter control sequences out of 15000+600000
  918125 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,13n,121p,1237b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,13n,121p,1260b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Bold.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on mmayer.pdf (2 pages, 97801 bytes).
+Output written on mmayer.pdf (2 pages, 98180 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
