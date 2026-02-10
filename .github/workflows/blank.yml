@@ -27,4 +27,4 @@ jobs:
           destination_folder: 'assets/CV'                   # root of Repo B, or set a folder
           user_email: 'rjviernes620@gmail.com'
           user_name: 'AlsoJunJun'
-          commit_message: 'Put uptodate CV from edit repo'
+          commit_message: 'New Changes to the CV (See CVRepo for details)'  # optional, default: 'Update files via Multi File Bandit'
