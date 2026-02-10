@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  8 FEB 2026 23:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  10 FEB 2026 19:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1219,8 +1219,11 @@ Overfull \hbox (5.12465pt too wide) in paragraph at lines 94--112
 []\T1/lato-TLF/m/n/10 A highly mo-ti-vated Com-puter Sci-ence grad-u-ate with proven 
  []
 
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 119.
+
+Overfull \hbox (0.60461pt too wide) in paragraph at lines 136--138
+[]\T1/lato-TLF/m/n/9 My own im-ple-men-ta-tion in-cluded the use of the MCTS (Monte 
+ []
+
 
 
 [1
@@ -1259,15 +1262,15 @@ Package logreq Info: Writing requests to 'mmayer_AD.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27455 strings out of 468080
- 579927 string characters out of 5425771
+ 27453 strings out of 468080
+ 579888 string characters out of 5425771
  1433614 words of memory out of 5000000
- 55692 multiletter control sequences out of 15000+600000
- 918125 words of font info for 70 fonts, out of 8000000 for 9000
+ 55691 multiletter control sequences out of 15000+600000
+ 895862 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,13n,121p,1264b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Bold.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on mmayer_AD.pdf (2 pages, 98288 bytes).
+Output written on mmayer_AD.pdf (2 pages, 97863 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
