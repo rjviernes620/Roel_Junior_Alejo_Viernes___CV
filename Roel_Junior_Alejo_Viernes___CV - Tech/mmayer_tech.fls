@@ -320,7 +320,6 @@ INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\lato\ts1lato-tlf.fd
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\lato\ts1lato-tlf.fd
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Regular-TS1-TLF.tfm
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome\FontAwesome--fontawesometwo.tfm
-INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-T1-TLF.tfm
 OUTPUT mmayer_tech.pdf
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-Bold-T1-TLF.vf
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-T1-TLF--base.tfm
@@ -344,8 +343,6 @@ INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lato\a_rt66h3.enc
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-Regular-T1-TLF.vf
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Regular-T1-TLF--base.tfm
-INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-Bold-T1-TLF.vf
-INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-T1-TLF--base.tfm
 INPUT .\page2sidebar.tex
 INPUT .\page2sidebar.tex
 INPUT .\page2sidebar.tex
