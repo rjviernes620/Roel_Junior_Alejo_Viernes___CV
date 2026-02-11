@@ -354,7 +354,10 @@ INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontaw
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontawesomethree.fd
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome\ufontawesomethree.fd
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome\FontAwesome--fontawesomethree.tfm
+INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-T1-TLF.tfm
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome\fontawesomethree.enc
+INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-Bold-T1-TLF.vf
+INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-T1-TLF--base.tfm
 INPUT mmayer_SM.aux
 INPUT mmayer_SM.run.xml
 OUTPUT mmayer_SM.run.xml

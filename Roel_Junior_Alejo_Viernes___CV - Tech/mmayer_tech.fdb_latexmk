@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber mmayer_tech"] 1770593698.10465 "mmayer_tech.bcf" "mmayer_tech.bbl" "mmayer_tech" 1770744768.44149 0
-  "mmayer_tech.bcf" 1770744768 108202 5411f5690c4731bf457720e2e4d430fa "pdflatex"
+["biber mmayer_tech"] 1770848344.51751 "mmayer_tech.bcf" "mmayer_tech.bbl" "mmayer_tech" 1770851150.82664 0
+  "mmayer_tech.bcf" 1770851150 108202 5411f5690c4731bf457720e2e4d430fa "pdflatex"
   "sample.bib" 1762734624 1341 c823affc537ead803567116cf04eef51 ""
   (generated)
   "mmayer_tech.bbl"
   "mmayer_tech.blg"
   (rewritten before read)
-["pdflatex"] 1770744765.64089 "c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - Tech/mmayer_tech.tex" "mmayer_tech.pdf" "mmayer_tech" 1770744768.44234 0
+["pdflatex"] 1770851148.73121 "c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - Tech/mmayer_tech.tex" "mmayer_tech.pdf" "mmayer_tech" 1770851150.8277 0
   "C:/Users/rjvie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762736077 155501 69c64e18682da23b3f73def6a45c9d78 ""
   "C:/Users/rjvie/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762735634 13321868 7090fcb0d45f2d8208035871358bb24c ""
   "C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1463869852 2437 443c81fb50993bacedc5f9a206c322b0 ""
@@ -177,13 +177,13 @@
   "C:/Users/rjvie/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/rjvie/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "altacv.cls" 1762734624 11083 678cec1f58ab5d10489ea1a2911a28c2 ""
-  "c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - Tech/mmayer_tech.tex" 1770744764 10469 cb306c197eab49324da47f37a84a10d3 ""
-  "mmayer_tech.aux" 1770744768 168 858f647014003f7a72af16b25f4db93e "pdflatex"
-  "mmayer_tech.bbl" 1770593700 9508 c6919d1ab449d4aef87adf3fd92190d8 "biber mmayer_tech"
-  "mmayer_tech.run.xml" 1770744768 2356 57c6149e55f26a3cec8429db4939e2ed "pdflatex"
-  "mmayer_tech.tex" 1770744764 10469 cb306c197eab49324da47f37a84a10d3 ""
+  "c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - Tech/mmayer_tech.tex" 1770851147 10096 dd922846dc8b3703451a2503d03770f3 ""
+  "mmayer_tech.aux" 1770851150 168 858f647014003f7a72af16b25f4db93e "pdflatex"
+  "mmayer_tech.bbl" 1770848409 9508 c6919d1ab449d4aef87adf3fd92190d8 "biber mmayer_tech"
+  "mmayer_tech.run.xml" 1770851150 2356 57c6149e55f26a3cec8429db4939e2ed "pdflatex"
+  "mmayer_tech.tex" 1770851147 10096 dd922846dc8b3703451a2503d03770f3 ""
   "page1sidebar.tex" 1770245216 2088 f8c81690c1b19123db254deac013704c ""
-  "page2sidebar.tex" 1768838411 1167 e88282a804debae279910129bbc0a517 ""
+  "page2sidebar.tex" 1770850957 1303 963d745b7a881a36f164edce0b6a6b33 ""
   (generated)
   "mmayer_tech.aux"
   "mmayer_tech.bcf"
