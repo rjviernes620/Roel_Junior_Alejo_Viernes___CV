@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  11 FEB 2026 23:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  11 FEB 2026 23:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1215,8 +1215,8 @@ File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 5.
 )
-Overfull \hbox (0.60461pt too wide) in paragraph at lines 129--131
-[]\T1/lato-TLF/m/n/9 My own im-ple-men-ta-tion in-cluded the use of the MCTS (Monte 
+Overfull \hbox (6.63907pt too wide) in paragraph at lines 109--110
+[]\T1/lato-TLF/m/n/9 Engineered a real-time ges-ture recog-ni-tion sys-tem us-ing Python, 
  []
 
 
@@ -1241,6 +1241,9 @@ Underfull \hbox (badness 4940) in paragraph at lines 12--21
  []
 
 (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesomethree.fd))
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 142.
+
 
 [2{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomethree.enc}] (mmayer_tech.aux)
  ***********
@@ -1252,15 +1255,15 @@ Package logreq Info: Writing requests to 'mmayer_tech.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27453 strings out of 468080
- 579917 string characters out of 5425771
+ 27455 strings out of 468080
+ 579956 string characters out of 5425771
  1435620 words of memory out of 5000000
- 55691 multiletter control sequences out of 15000+600000
- 895862 words of font info for 68 fonts, out of 8000000 for 9000
+ 55692 multiletter control sequences out of 15000+600000
+ 918125 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,13n,121p,1265b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Bold.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on mmayer_tech.pdf (2 pages, 98174 bytes).
+Output written on mmayer_tech.pdf (2 pages, 99409 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
