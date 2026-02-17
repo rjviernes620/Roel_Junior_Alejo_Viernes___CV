@@ -1,0 +1,15 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'mmayer_SM.blg'
+[270] biber-MSWIN64:342> INFO - === 
+[378] Biber.pm:421> INFO - Reading 'mmayer_SM.bcf'
+[493] Biber.pm:999> INFO - Using all citekeys in bib section 0
+[509] Biber.pm:4487> INFO - Processing section 0
+[536] Biber.pm:4678> INFO - Looking for bibtex file 'sample.bib' for section 0
+[598] bibtex.pm:1713> INFO - LaTeX decoding ...
+[618] bibtex.pm:1519> INFO - Found BibTeX data source 'sample.bib'
+[749] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[750] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[750] Biber.pm:4307> INFO - Sorting list 'ydnt/global//global/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[750] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[756] bbl.pm:676> INFO - Writing 'mmayer_SM.bbl' with encoding 'UTF-8'
+[761] bbl.pm:779> INFO - Output to mmayer_SM.bbl
