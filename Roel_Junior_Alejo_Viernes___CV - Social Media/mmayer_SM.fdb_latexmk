@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber mmayer_SM"] 1771340413.00416 "mmayer_SM.bcf" "mmayer_SM.bbl" "mmayer_SM" 1771343588.83952 0
-  "mmayer_SM.bcf" 1771343588 108202 5411f5690c4731bf457720e2e4d430fa "pdflatex"
+["biber mmayer_SM"] 1771340413.00416 "mmayer_SM.bcf" "mmayer_SM.bbl" "mmayer_SM" 1771471654.54557 0
+  "mmayer_SM.bcf" 1771471654 108202 5411f5690c4731bf457720e2e4d430fa "pdflatex"
   "sample.bib" 1762734624 1341 c823affc537ead803567116cf04eef51 ""
   (generated)
   "mmayer_SM.bbl"
   "mmayer_SM.blg"
   (rewritten before read)
-["pdflatex"] 1771343586.41109 "c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - Social Media/mmayer_SM.tex" "mmayer_SM.pdf" "mmayer_SM" 1771343588.84059 0
+["pdflatex"] 1771471652.57997 "c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - Social Media/mmayer_SM.tex" "mmayer_SM.pdf" "mmayer_SM" 1771471654.5464 0
   "C:/Users/rjvie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762736077 155501 69c64e18682da23b3f73def6a45c9d78 ""
   "C:/Users/rjvie/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762735634 13321868 7090fcb0d45f2d8208035871358bb24c ""
   "C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1463869852 2437 443c81fb50993bacedc5f9a206c322b0 ""
@@ -177,13 +177,13 @@
   "C:/Users/rjvie/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/rjvie/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "altacv.cls" 1762734624 11083 678cec1f58ab5d10489ea1a2911a28c2 ""
-  "c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - Social Media/mmayer_SM.tex" 1771343585 10087 48951ec144b5f18fdb5eff97a18ab5ac ""
-  "mmayer_SM.aux" 1771343588 168 858f647014003f7a72af16b25f4db93e "pdflatex"
+  "c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - Social Media/mmayer_SM.tex" 1771471651 9900 c6e91a969ec2b79d47677d5f5a02ca18 ""
+  "mmayer_SM.aux" 1771471654 168 858f647014003f7a72af16b25f4db93e "pdflatex"
   "mmayer_SM.bbl" 1771340422 9508 c6919d1ab449d4aef87adf3fd92190d8 "biber mmayer_SM"
-  "mmayer_SM.run.xml" 1771343588 2342 a78a0054282ffdc8bfa79121ecfb8b71 "pdflatex"
-  "mmayer_SM.tex" 1771343585 10087 48951ec144b5f18fdb5eff97a18ab5ac ""
+  "mmayer_SM.run.xml" 1771471654 2342 a78a0054282ffdc8bfa79121ecfb8b71 "pdflatex"
+  "mmayer_SM.tex" 1771471651 9900 c6e91a969ec2b79d47677d5f5a02ca18 ""
   "page1sidebar.tex" 1770852616 2090 93764fe411abaa2707c2c26e94f80447 ""
-  "page2sidebar.tex" 1770867050 1347 ad4b580b0adfbe5b92e03c48b0b49333 ""
+  "page2sidebar.tex" 1771471624 1361 65dbd7dce37ac7a86773ff68ca3827c8 ""
   (generated)
   "mmayer_SM.aux"
   "mmayer_SM.bcf"
