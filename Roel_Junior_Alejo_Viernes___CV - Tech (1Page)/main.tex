@@ -1,0 +1,229 @@
+%-------------------------
+% Resume in Latex
+% Author : Harshibar
+% Based off of: https://github.com/jakeryang/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+% only for pdflatex
+% \input{glyphtounicode}
+
+% fontawesome
+\usepackage{fontawesome5}
+
+% fixed width
+\usepackage[scale=0.90,lf]{FiraMono}
+
+% light-grey
+\definecolor{light-grey}{gray}{0.83}
+\definecolor{dark-grey}{gray}{0.3}
+\definecolor{text-grey}{gray}{.08}
+
+\DeclareRobustCommand{\ebseries}{\fontseries{eb}\selectfont}
+\DeclareTextFontCommand{\texteb}{\ebseries}
+
+% custom underilne
+\usepackage{contour}
+\usepackage[normalem]{ulem}
+\renewcommand{\ULdepth}{1.8pt}
+\contourlength{0.8pt}
+\newcommand{\myuline}[1]{%
+  \uline{\phantom{#1}}%
+  \llap{\contour{white}{#1}}%
+}
+
+
+% custom font: helvetica-style
+\usepackage{tgheros}
+\renewcommand*\familydefault{\sfdefault} 
+%% Only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{0in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting - serif
+% \titleformat{\section}{
+%   \vspace{2pt} \scshape \raggedright\large % header section
+% }{}{0em}{}[\color{black} \titlerule \vspace{-5pt}]
+
+% TODO EBSERIES
+% sans serif sections
+\titleformat {\section}{
+    \bfseries \vspace{2pt} \raggedright \large % header section
+}{}{0em}{}[\color{light-grey} {\titlerule[2pt]} \vspace{-4pt}]
+
+% only for pdflatex
+% Ensure that generate pdf is machine readable/ATS parsable
+% \pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-1pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & {\color{dark-grey}\small #2}\vspace{1pt}\\ % top row of resume entry
+      \textit{#3} & {\color{dark-grey} \small #4}\\ % second row of resume entry
+    \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+      #1 & {\color{dark-grey}} \\
+    \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+% CHANGED default leftmargin  0.15 in
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{0pt}}
+
+\color{text-grey}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge Roel-Junior Alejo Viernes} \\ \vspace{5pt}
+    \small \faPhone* \texttt{+447758010481} \hspace{1pt} $|$
+    \hspace{1pt} \faEnvelope \hspace{2pt} \texttt{roel@rjviernes.tech} \hspace{1pt} $|$ 
+    \hspace{1pt} \faGlobe \hspace{2pt} \texttt{rjviernes.tech} \hspace{1pt} $|$
+    \hspace{1pt} \faLinkedin \hspace{2pt}\texttt{rjviernes620} \hspace{1pt} $|$
+    \hspace{1pt} \faGithub \hspace{2pt} \texttt{rjviernes}
+    \\ \vspace{-3pt}
+\end{center}
+
+%-----------EXPERIENCE-----------
+\section{EXPERIENCE}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {University of Greenwich}{June 2023 -- Oct. 2025}
+      {Social Media \& Content Operations}{Greenwich, London}
+      \resumeItemListStart
+        \resumeItem{Conceptualised and produced technical video content for the Faculty of Engineering \& Science, managing the full production lifecycle from storyboarding to final render}
+        \resumeItem{Collaborated with technical stakeholders (Professors, Researchers) to translate complex engineering concepts into accessible digital content, demonstrating the ability to bridge the gap between deep tech and user experience}
+        \resumeItem{Maintained brand consistency across multiple platforms, ensuring high-fidelity output for major university campaigns (Clearing, Open Days)}
+        \resumeItem{Participated within content creation for various marketing campaigns in the University (Inc. Clearing, Open Days) and starred in the University's Profile video for the Computer Science suite of degrees on YouTube}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Senior UK Student Recruitment Ambassador}{May 2023 -- Oct 2025}
+      {University of Greenwich}{Greenwich, London}
+      \resumeItemListStart
+        \resumeItem{Led a team of 10+ staff and student ambassadors in clearing operations and day-to-day customer service, ensuring a high-quality experience for prospective students and their families during high-pressure periods}
+        \resumeItem{Represented the university at external events, including UCAS fairs, panels, and school visits, effectively communicating the value of the university's offerings to a wide range of audiences}
+        \resumeItem{Assisted in the planning of outreach initiatives, contributing to the university's recruitment goals through efficient planning and execution}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+
+\section{PROJECTS \& CONTRIBUTIONS}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{NFC-Based Guides}} {Sept. 2019 -- Mar. 2021}
+          \resumeItemListStart
+            \resumeItem{Designed \& introduced an NFC-based event guide for University events, reducing the need on print materials and improving the user experience for attendees}
+            \resumeItem{NFC-guide hosts all materials on guests's devices and utilises online resources to provide an interactive experience, including maps, schedules, and multimedia content}
+          \resumeItemListEnd
+                \resumeProjectHeading
+          {\textbf{Event Automations}} {Sept. 2019 -- Mar. 2021}
+          \resumeItemListStart
+            \resumeItem{Designed \& introduced an NFC-based event guide for University events, reducing the need on print materials and improving the user experience for attendees}
+          \resumeItemListEnd
+          
+    \resumeSubHeadingListEnd
+
+
+
+%-----------EDUCATION-----------
+\section {EDUCATION}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Greenwich}{Sep. 2022 -- Jul. 2025}
+      {Computer Science BSc (Hons)}{Greenwich, London}
+      	\resumeItemListStart
+    	\resumeItem {\textbf{Coursework}: Data Structures, Algorithms, Databases, Computer Systems, Machine Learning}
+        \resumeItem 
+            {\textbf{Dissertation}: HandTyper -- A Computer Vision-based Hand Gesture Recognition System for Virtual Keyboard Input}
+        \resumeItem {\textbf{Extra-Curricular}: President of the Computer Science Society, Student Representative, Student Ambassador}
+        \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+
+%-----------AWARDS-----------
+\section{AWARDS}
+  \resumeSubHeadingListStart
+    \resumeSubItem{\textbf{University of Greenwich Instrumental Ambassador Award} -- 2024}
+  \resumeSubHeadingListEnd
+
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{SKILLS}
+ \begin{itemize}[leftmargin=0in, label={}]
+    \small{\item{
+     \textbf{Languages} {: Python, Java, HTML/CSS, SQL,  React (Currently Learning), TypeScript (Currently Learning)}\vspace{2pt} \\
+     \textbf{Tools}     {: Figma, Notion, Trello, Git, Github, Adobe Creative Suite (Premiere Pro, After Effects, Photoshop, Lightroom), OBS}
+    }}
+ \end{itemize}
+
+
+%-------------------------------------------
+\end{document}
