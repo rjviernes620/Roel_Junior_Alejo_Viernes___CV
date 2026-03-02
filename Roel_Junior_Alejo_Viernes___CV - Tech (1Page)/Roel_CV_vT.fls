@@ -1,7 +1,7 @@
 PWD c:\Users\rjvie\Desktop\CV Edit Files\Roel_Junior_Alejo_Viernes___CV - Tech (1Page)
 INPUT C:\Users\rjvie\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\rjvie\Desktop\CV Edit Files\Roel_Junior_Alejo_Viernes___CV - Tech (1Page)\main.tex
-OUTPUT main.log
+INPUT c:\Users\rjvie\Desktop\CV Edit Files\Roel_Junior_Alejo_Viernes___CV - Tech (1Page)\Roel_CV_vT.tex
+OUTPUT Roel_CV_vT.log
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
@@ -159,21 +159,21 @@ INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\t1qhv.fd
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\t1qhv.fd
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\t1qhv.fd
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ec-qhvr.tfm
-INPUT .\main.aux
-INPUT .\main.aux
-INPUT main.aux
-OUTPUT main.aux
+INPUT .\Roel_CV_vT.aux
+INPUT .\Roel_CV_vT.aux
+INPUT Roel_CV_vT.aux
+OUTPUT Roel_CV_vT.aux
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT .\main.out
-INPUT .\main.out
-INPUT main.out
-INPUT main.out
-OUTPUT main.pdf
-INPUT .\main.out
-INPUT .\main.out
-OUTPUT main.out
+INPUT .\Roel_CV_vT.out
+INPUT .\Roel_CV_vT.out
+INPUT Roel_CV_vT.out
+INPUT Roel_CV_vT.out
+OUTPUT Roel_CV_vT.pdf
+INPUT .\Roel_CV_vT.out
+INPUT .\Roel_CV_vT.out
+OUTPUT Roel_CV_vT.out
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ec-qhvb.tfm
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ec-qhvb.tfm
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ec-qhvr.tfm
@@ -221,9 +221,9 @@ INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraMon
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fira\fir_i3ioen.enc
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free1.enc
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5brands0.enc
-INPUT main.aux
-INPUT .\main.out
-INPUT .\main.out
+INPUT Roel_CV_vT.aux
+INPUT .\Roel_CV_vT.out
+INPUT .\Roel_CV_vT.out
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\type1\public\fira\FiraMono-Regular.pfb
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\type1\public\fira\FiraMono-Regular.pfb
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\fonts\type1\public\fontawesome5\FontAwesome5Brands-Regular.pfb
