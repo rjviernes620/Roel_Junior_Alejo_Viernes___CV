@@ -80,8 +80,8 @@
 % TODO EBSERIES
 % sans serif sections
 \titleformat {\section}{
-    \bfseries \vspace{2pt} \raggedright \large % header section
-}{}{0em}{}[\color{light-grey} {\titlerule[2pt]} \vspace{-4pt}]
+    \bfseries \vspace{0pt} \raggedright \large % header section
+}{}{0em}{}[\color{light-grey} {\titlerule[2pt]} \vspace{-8pt}]
 
 % only for pdflatex
 % Ensure that generate pdf is machine readable/ATS parsable
@@ -113,7 +113,7 @@
 \newcommand{\resumeProjectHeading}[2]{
     \item
     \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-      #1 & {\color{dark-grey}} \\
+      \textbf{#1} & {\color{dark-grey}\small #2} \\
     \end{tabular*}\vspace{-4pt}
 }
 
@@ -151,8 +151,8 @@
   \resumeSubHeadingListStart
 
     \resumeSubheading
-      {University of Greenwich}{June 2023 -- Oct. 2025}
-      {Social Media \& Content Operations}{Greenwich, London}
+      {Social Media \& Content Operations}{June 2023 -- Oct. 2025}
+      {University of Greenwich}{Greenwich, London}
       \resumeItemListStart
         \resumeItem{Conceptualised and produced technical video content for the Faculty of Engineering \& Science, managing the full production lifecycle from storyboarding to final render}
         \resumeItem{Collaborated with technical stakeholders (Academics, Researchers) to translate complex engineering concepts into accessible digital content, demonstrating the ability to bridge the gap between deep tech and user experience}
@@ -177,15 +177,20 @@
 \section{PROJECTS \& CONTRIBUTIONS}
     \resumeSubHeadingListStart
       \resumeProjectHeading
-          {\textbf{NFC-Based Guides}} {Sept. 2019 -- Mar. 2021}
+          {NFC-Based Guides} {Python | HTML/CSS}
           \resumeItemListStart
             \resumeItem{Designed \& introduced an NFC-based event guide for University events, reducing the need on print materials and improving the user experience for attendees}
             \resumeItem{NFC-guide hosts all materials on guests's devices and utilises online resources to provide an interactive experience, including maps, schedules, and multimedia content}
           \resumeItemListEnd
-                \resumeProjectHeading
-          {\textbf{Event Automations}} {Sept. 2019 -- Mar. 2021}
+      \resumeProjectHeading
+          {Event Automations} {Python | Excel}
           \resumeItemListStart
-            \resumeItem{Introduced a python-based automation to assist with event preparations, including automating the the generation of IT guest logins and measuring the engagement of guests with the NFC-based guides}
+            \resumeItem{Developed an internal python tool to automate IT guest provisioning and analytics for NFC event guide engagement. This reduced the manual prep time for University/Faculty event prep time by approx. 10\%}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {HandTyper (Dissertation)}{Python | Java | OpenCV | Mediapipe}
+          \resumeItemListStart
+            \resumeItem{Designed and implemented a computer vision-based hand gesture recognition system for virtual keyboard input, achieving an average accuracy of 90\% across a dataset of 40000+ images}
           \resumeItemListEnd
           
     \resumeSubHeadingListEnd
