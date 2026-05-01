@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  30 APR 2026 01:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  29 APR 2026 00:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - SM ( 1 Pager)/Roel_CV_SM1.tex"
-(c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - SM ( 1 Pager)/Roel_CV_SM1.tex
+**"c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - SM ( 1 Pager) copy/Roel_CV_RT.tex"
+(c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - SM ( 1 Pager) copy/Roel_CV_RT.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
 (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -311,8 +311,8 @@ Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+qhv on input line 116.
  (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
-)) (Roel_CV_SM1.aux)
-\openout1 = `Roel_CV_SM1.aux'.
+)) (Roel_CV_RT.aux)
+\openout1 = `Roel_CV_RT.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 136.
 LaTeX Font Info:    ... okay on input line 136.
@@ -347,9 +347,9 @@ LaTeX Font Info:    ... okay on input line 136.
 \everyMPtoPDFconversion=\toks30
 )
 Package hyperref Info: Link coloring OFF on input line 136.
- (Roel_CV_SM1.out) (Roel_CV_SM1.out)
+ (Roel_CV_RT.out) (Roel_CV_RT.out)
 \@outlinefile=\write3
-\openout3 = `Roel_CV_SM1.out'.
+\openout3 = `Roel_CV_RT.out'.
 
 \c@mv@tabular=\count309
 \c@mv@boldtabular=\count310
@@ -392,24 +392,24 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{C:/Users/rjvie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fira/fir_i3ioen.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}] (Roel_CV_SM1.aux)
+{C:/Users/rjvie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fira/fir_i3ioen.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}] (Roel_CV_RT.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
-Package rerunfilecheck Info: File `Roel_CV_SM1.out' has not changed.
+Package rerunfilecheck Info: File `Roel_CV_RT.out' has not changed.
 (rerunfilecheck)             Checksum: 3FB402D6238B93F89CA18A4B29D8AE52;426.
  ) 
 Here is how much of TeX's memory you used:
  15094 strings out of 468080
- 264081 string characters out of 5425771
- 679942 words of memory out of 5000000
+ 264106 string characters out of 5425771
+ 679937 words of memory out of 5000000
  43548 multiletter control sequences out of 15000+600000
  656569 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,369b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,373b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraMono-Regular.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvb.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvr.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvri.pfb>
-Output written on Roel_CV_SM1.pdf (1 page, 142271 bytes).
+Output written on Roel_CV_RT.pdf (1 page, 142263 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
