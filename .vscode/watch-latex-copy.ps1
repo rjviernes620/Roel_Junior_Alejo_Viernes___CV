@@ -16,10 +16,6 @@ function Get-MainTexFiles {
 function Build-And-CopyDirectory {
     param([string]$dirPath)
 
-    $projectName = Split-Path -Leaf $dirPath
-    $destProjectDir = Join-Path $destinationRoot $projectName
-    New-Item -ItemType Directory -Force -Path $destProjectDir | Out-Null
-
     $texFiles = Get-MainTexFiles -dirPath $dirPath
     if (-not $texFiles) {
         Write-Host "No main .tex files found in $dirPath"
@@ -29,7 +25,7 @@ function Build-And-CopyDirectory {
     foreach ($texFile in $texFiles) {
         $pdfName = [System.IO.Path]::ChangeExtension($texFile.Name, 'pdf')
         $pdfPath = Join-Path $dirPath $pdfName
-        $destPath = Join-Path $destProjectDir $pdfName
+        $destPath = Join-Path $destinationRoot $pdfName
 
         Write-Host "Building $texFile in $projectName..."
         Set-Location $dirPath
