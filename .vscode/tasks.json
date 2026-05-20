@@ -1,0 +1,48 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build mmayer_tech.tex and copy PDF",
+      "type": "shell",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-NoLogo",
+        "-Command",
+        "Set-Location -LiteralPath '${workspaceFolder}\\Roel_Junior_Alejo_Viernes___CV - Tech'; latexmk -pdf -interaction=nonstopmode mmayer_tech.tex; if ($LASTEXITCODE -eq 0) { New-Item -ItemType Directory -Force -Path '${workspaceFolder}\\built-pdfs' | Out-Null; Copy-Item -LiteralPath 'mmayer_tech.pdf' -Destination '${workspaceFolder}\\built-pdfs\\mmayer_tech.pdf' -Force } else { exit $LASTEXITCODE }"
+      ],
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "dedicated"
+      }
+    },
+    {
+      "label": "Watch mmayer_tech.tex and copy PDF",
+      "type": "shell",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-NoLogo",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\.vscode\\watch-latex-copy.ps1"
+      ],
+      "problemMatcher": [],
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "dedicated"
+      },
+      "isBackground": true
+    }
+  ]
+}

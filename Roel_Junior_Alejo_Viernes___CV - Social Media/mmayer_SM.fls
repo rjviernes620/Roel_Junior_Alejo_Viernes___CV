@@ -1,6 +1,6 @@
-PWD c:\Users\rjvie\Desktop\CV Edit Files\Roel_Junior_Alejo_Viernes___CV - Social Media
+PWD C:\Users\rjvie\Desktop\CV Edit Files\Roel_Junior_Alejo_Viernes___CV - Social Media
 INPUT C:\Users\rjvie\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\rjvie\Desktop\CV Edit Files\Roel_Junior_Alejo_Viernes___CV - Social Media\mmayer_SM.tex
+INPUT mmayer_SM.tex
 OUTPUT mmayer_SM.log
 INPUT .\altacv.cls
 INPUT altacv.cls
