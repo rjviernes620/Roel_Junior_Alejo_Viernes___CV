@@ -1,6 +1,6 @@
-PWD c:\Users\rjvie\Desktop\CV Edit Files\Roel_Junior_Alejo_Viernes___CV - Tech (1Page)
+PWD C:\Users\rjvie\Desktop\CV Edit Files\Roel_Junior_Alejo_Viernes___CV - Tech (1Page)
 INPUT C:\Users\rjvie\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\rjvie\Desktop\CV Edit Files\Roel_Junior_Alejo_Viernes___CV - Tech (1Page)\Roel_CV_vT.tex
+INPUT Roel_CV_vT.tex
 OUTPUT Roel_CV_vT.log
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
