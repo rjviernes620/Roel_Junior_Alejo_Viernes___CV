@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  26 MAY 2026 03:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.30)  30 JUN 2026 02:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - SM ( 1 Pager)/Roel_CV_SM1.tex"
-(c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - SM ( 1 Pager)/Roel_CV_SM1.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-10-09>
+**"c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - SM (1Page)/Roel_CV_SM1.tex"
+(c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - SM (1Page)/Roel_CV_SM1.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
 (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
@@ -189,25 +189,23 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthR=\skip69
 \@temptokenb=\toks23
 ) (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2025/10/22 v25.14 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
 \babel@savecnt=\count297
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2050.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2052.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2054.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2055.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2056.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2058.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2083.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2068.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2070.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2072.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2073.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2074.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2076.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2101.
 \U@D=\dimen159
 \l@unhyphenated=\language79
  (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read3
 \bbl@dirlevel=\count298
-
-
-Package babel Warning: Configuration files are deprecated, as
-(babel)                they can break document portability.
-(babel)                Reported on input line 4172.
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4196.
 
 *************************************
 * Local config file bblopts.cfg used
@@ -216,7 +214,7 @@ Package babel Warning: Configuration files are deprecated, as
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
 ) (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex)
 Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 4295.
+(babel)             from babel-en.ini. Reported on input line 4320.
  (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
@@ -228,7 +226,7 @@ Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 )) (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
  (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen160
 \ar@mcellbox=\box55
 \extrarowheight=\dimen161
@@ -245,7 +243,7 @@ Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \TX@cols=\count299
 \TX@ftn=\toks25
 ) (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5.sty (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2025-10-09 L3 programming layer (loader) 
+Package: expl3 2025-12-24 L3 programming layer (loader) 
  (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count300
@@ -274,7 +272,7 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 ) (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
 Package: fontaxes 2025-05-24 v2.0.1 Font selection axes (deprecated)
  (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/figureversions\figureversions.sty
@@ -307,7 +305,7 @@ Package: ulem 2019/11/18
 ) (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\tgheros.sty
 Package: tgheros 2009/09/27 v1.2 TeX Gyre Heros as default sans serif family
 ) (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+qhv on input line 116.
  (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
@@ -387,7 +385,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 158.
 
 
-
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
@@ -396,20 +393,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 {C:/Users/rjvie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fira/fir_i3ioen.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}] (Roel_CV_SM1.aux)
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-10-09>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `Roel_CV_SM1.out' has not changed.
 (rerunfilecheck)             Checksum: 943541F1A47556582A894FF8FC1BBB80;426.
  ) 
 Here is how much of TeX's memory you used:
- 15105 strings out of 468080
- 264191 string characters out of 5425771
- 682942 words of memory out of 5000000
- 43555 multiletter control sequences out of 15000+600000
+ 15110 strings out of 467871
+ 264284 string characters out of 5418376
+ 686892 words of memory out of 5000000
+ 43769 multiletter control sequences out of 15000+600000
  663509 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,427b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,450b,496s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraMono-Regular.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvb.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvr.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qhvri.pfb>
 Output written on Roel_CV_SM1.pdf (1 page, 142799 bytes).
 PDF statistics:
