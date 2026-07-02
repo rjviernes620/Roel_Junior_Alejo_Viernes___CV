@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1782785026.47573 "Roel_CV_vT.tex" "Roel_CV_vT.pdf" "Roel_CV_vT" 1782785029.22857 0
+["pdflatex"] 1782785087.16616 "c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - Tech (1Page)/Roel_CV_vT.tex" "Roel_CV_vT.pdf" "Roel_CV_vT" 1782785095.90386 0
   "C:/Users/rjvie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1782435437 335525 2926193d1dd16a1f240b9d167d2ae201 ""
   "C:/Users/rjvie/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1782782117 13333487 20f9d1c49bda9b1099fbaffe248dbafd ""
   "C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fira/fir_i3ioen.enc" 1570723761 2862 216913a462814c3772679fedc1bbde0e ""
@@ -120,9 +120,10 @@
   "C:/Users/rjvie/AppData/Local/Programs/MiKTeX/tex/latex/ulem/ulem.sty" 1578651445 15682 94f55b803e160cf7fb6e4d77d07cfe1d ""
   "C:/Users/rjvie/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/rjvie/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Roel_CV_vT.aux" 1782785028 718 9a20c2558eb28fe155a0d53250f3c571 "pdflatex"
-  "Roel_CV_vT.out" 1782785028 426 522f360559d29fb8fb8955c6c5f9d3e1 "pdflatex"
-  "Roel_CV_vT.tex" 1782785020 8636 ccb0b0b81bf54c55c33b3197d88d84c0 ""
+  "Roel_CV_vT.aux" 1782785094 718 9a20c2558eb28fe155a0d53250f3c571 "pdflatex"
+  "Roel_CV_vT.out" 1782785094 426 522f360559d29fb8fb8955c6c5f9d3e1 "pdflatex"
+  "Roel_CV_vT.tex" 1782785081 8642 ae31d02789a67ee41006ec9eb8a5880b ""
+  "c:/Users/rjvie/Desktop/CV Edit Files/Roel_Junior_Alejo_Viernes___CV - Tech (1Page)/Roel_CV_vT.tex" 1782785081 8642 ae31d02789a67ee41006ec9eb8a5880b ""
   (generated)
   "Roel_CV_vT.aux"
   "Roel_CV_vT.log"

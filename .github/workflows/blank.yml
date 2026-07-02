@@ -25,7 +25,7 @@ jobs:
           # comma-separated list, accepts globs per docs [web:59]
           source_file: 'Roel_Junior_Alejo_Viernes___CV - Tech (1Page)/Roel_CV_vT.pdf, Roel_Junior_Alejo_Viernes___CV - SM (1Page)/Roel_CV_SM1.pdf, Roel_Junior_Alejo_Viernes___CV - RT (1 Page)/Roel_CV_RT.pdf'
           destination_repo: 'rjviernes620/web'
-          destination_folder: 'assets/CV'                   # root of Repo B, or set a folder
+          destination_folder: 'public/assets/CV'                   # root of Repo B, or set a folder
           user_email: 'rjviernes620@gmail.com'
           user_name: 'AlsoJunJun'
           commit_message: 'New Changes to the CV (See CVRepo for details)'  # optional, default: 'Update files via Multi File Bandit'
