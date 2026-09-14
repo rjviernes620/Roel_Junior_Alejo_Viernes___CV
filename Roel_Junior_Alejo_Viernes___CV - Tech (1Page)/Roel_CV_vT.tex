@@ -18,13 +18,7 @@
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
 \usepackage{tabularx}
-% only for pdflatex
-% \input{glyphtounicode}
-
-% fontawesome
 \usepackage{fontawesome5}
-
-% fixed width
 \usepackage[scale=0.90,lf]{FiraMono}
 
 % light-grey
@@ -35,7 +29,7 @@
 \DeclareRobustCommand{\ebseries}{\fontseries{eb}\selectfont}
 \DeclareTextFontCommand{\texteb}{\ebseries}
 
-% custom underilne
+% custom underline
 \usepackage{contour}
 \usepackage[normalem]{ulem}
 \renewcommand{\ULdepth}{1.8pt}
@@ -45,16 +39,13 @@
   \llap{\contour{white}{#1}}%
 }
 
-
 % custom font: helvetica-style
 \usepackage{tgheros}
 \renewcommand*\familydefault{\sfdefault} 
-%% Only if the base font of the document is to be sans serif
 \usepackage[T1]{fontenc}
 
-
 \pagestyle{fancy}
-\fancyhf{} % clear all header and footer fields
+\fancyhf{} 
 \fancyfoot{}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
@@ -63,29 +54,17 @@
 \addtolength{\oddsidemargin}{-0.5in}
 \addtolength{\evensidemargin}{0in}
 \addtolength{\textwidth}{1in}
-\addtolength{\topmargin}{-.5in}
-\addtolength{\textheight}{1.0in}
+\addtolength{\topmargin}{-.75in}
+\addtolength{\textheight}{1.5in}
 
 \urlstyle{same}
-
 \raggedbottom
 \raggedright
 \setlength{\tabcolsep}{0in}
 
-% Sections formatting - serif
-% \titleformat{\section}{
-%   \vspace{2pt} \scshape \raggedright\large % header section
-% }{}{0em}{}[\color{black} \titlerule \vspace{-5pt}]
-
-% TODO EBSERIES
-% sans serif sections
 \titleformat {\section}{
-    \bfseries \vspace{0pt} \raggedright \large % header section
+    \bfseries \vspace{0pt} \raggedright \large 
 }{}{0em}{}[\color{light-grey} {\titlerule[2pt]} \vspace{-8pt}]
-
-% only for pdflatex
-% Ensure that generate pdf is machine readable/ATS parsable
-% \pdfgentounicode=1
 
 %-------------------------
 % Custom commands
@@ -98,30 +77,20 @@
 \newcommand{\resumeSubheading}[4]{
   \vspace{-1pt}\item
     \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & {\color{dark-grey}\small #2}\vspace{1pt}\\ % top row of resume entry
-      \textit{#3} & {\color{dark-grey} \small #4}\\ % second row of resume entry
+      \textbf{#1} & {\color{dark-grey}\small #2}\vspace{1pt}\\ 
+      \textit{#3} & {\color{dark-grey} \small #4}\\ 
     \end{tabular*}\vspace{-4pt}
 }
 
-\newcommand{\resumeSubSubheading}[2]{
-    \item
-    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-      \textit{\small#1} & \textit{\small #2} \\
-    \end{tabular*}\vspace{-7pt}
-}
-
 \newcommand{\resumeProjectHeading}[2]{
-    \item
+  \item
     \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
       \textbf{#1} & {\color{dark-grey}\small #2} \\
     \end{tabular*}\vspace{-4pt}
 }
 
-\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
-
 \renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
 
-% CHANGED default leftmargin  0.15 in
 \newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0in, label={}]}
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
 \newcommand{\resumeItemListStart}{\begin{itemize}}
@@ -132,13 +101,12 @@
 %-------------------------------------------
 %%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
 \begin{document}
 
 %----------HEADING----------
 \begin{center}
     \textbf{\Huge Roel-Junior Alejo Viernes} \\ \vspace{5pt}
-    \small \faPhone* \texttt{+447719794481} \hspace{1pt} $|$
+    \small \faPhone* \texttt{+447359269842} \hspace{1pt} $|$
     \hspace{1pt} \faEnvelope \hspace{2pt} \texttt{roel@rjviernes.tech} \hspace{1pt} $|$ 
     \hspace{1pt} \faGlobe \hspace{2pt} \texttt{rjviernes.tech} \hspace{1pt} $|$
     \hspace{1pt} \faLinkedin \hspace{2pt}\texttt{rjviernes620} \hspace{1pt} $|$
@@ -153,37 +121,37 @@
       {University of Greenwich}{Sep. 2022 -- Jul. 2025}
       {Computer Science BSc (Hons)}{Greenwich, London}
       	\resumeItemListStart
-    	\resumeItem {\textbf{Coursework}: Data Structures, Algorithms, Databases, Computer Systems, Machine Learning}
+    	\resumeItem {\textbf{Core Modules}: Data Structures \& Algorithms, Object-Oriented Programming (Java), Database Systems (SQL), Machine Learning, Computer Systems Architecture, Advanced Web Technologies}
         \resumeItem 
-            {\textbf{Dissertation}: HandTyper -- A Computer Vision-based Hand Gesture Recognition System for Virtual Keyboard Input}
-        \resumeItem {\textbf{Extra-Curricular}: President of the Computer Science Society, Student Representative, Student Ambassador}
-        \resumeItem {\textbf{Achievements}: University of Greenwich Instrumental Ambassador Award, Faculty of Engineering \& Science Making a Difference Award}
+            {\textbf{Dissertation}: HandTyper -- A Real-Time Computer Vision \& Low-Latency Gesture Classification Pipeline for Virtual Input Interfaces (Python, Java, OpenCV, Mediapipe)}
+        \resumeItem {\textbf{Leadership \& Honors}: President of the Computer Science Society (managed team operations, technical workshops, and budgets), Student Representative, Instrumental Ambassador Award}
         \resumeItemListEnd
   \resumeSubHeadingListEnd
 
 
 %-----------PROJECTS-----------
-\section{PROJECTS \& CONTRIBUTIONS}
+\section{PROJECTS \& TECHNICAL CONTRIBUTIONS}
     \resumeSubHeadingListStart
       \resumeProjectHeading
-          {HandTyper (Dissertation)} {Python | Java | OpenCV | Mediapipe}
+          {HandTyper: Low-Latency Stream Processing Pipeline} {Python | Java | OpenCV | Mediapipe}
           \resumeItemListStart
-            \resumeItem{Designed and implemented a real-time computer vision system that maps hand gestures to virtual keyboard inputs, utilizing OpenCV and Mediapipe to process live video streams.}
-            \resumeItem{Trained and evaluated classification systems across a custom dataset of 40,000+ hand gesture images, achieving an average accuracy rate of 90\% and documenting findings in a full academic dissertation.}
+            \resumeItem{Architected a real-time computer vision system processing high-frame-rate video feeds, mapping spatial hand landmarks to low-latency virtual keyboard inputs with minimal compute overhead.}
+            \resumeItem{Trained and benchmarked classification models over a dataset of 40,000+ gesture samples, achieving 90\% inference accuracy under strict real-time execution constraints.}
+            \resumeItem{Profiled runtime memory usage and stream-handling loops to eliminate processing bottlenecks, ensuring sub-frame response times and zero input drop during continuous data streams.}
           \resumeItemListEnd
 
       \resumeProjectHeading
-          {NFC-Based Event Guides} {Python | HTML/CSS}
+          {Sincerely: Cross-Platform Digital Keepsake App} {React 19 | TypeScript | Capacitor | Firebase}
           \resumeItemListStart
-            \resumeItem{Engineered a mobile-responsive digital guide application for university events, utilizing HTML/CSS and scripting to parse event materials onto guests' mobile devices.}
-            \resumeItem{Deployed contactless NFC tag infrastructure across event venues, eliminating printed brochures and enhancing the user experience for hundreds of attendees.}
+            \resumeItem{Architected a cross-platform Android and PWA app using React 19, TypeScript, and Capacitor 8, building an offline-first mutation sync queue with IndexedDB and Firestore for zero-loss data persistence.}
+            \resumeItem{Implemented an interactive unboxing engine featuring 60 FPS physics-based wax seals, scratch-to-reveal canvas shaders, RevenueCat subscription tiers, and automated 300 DPI QR gift slip generation.}
           \resumeItemListEnd
 
       \resumeProjectHeading
-          {Event Automations} {Python | Excel}
+          {Distributed NFC Telemetry \& Web Architecture} {Python | JavaScript | HTML/CSS}
           \resumeItemListStart
-            \resumeItem{Developed a Python automation script utilizing CSV parsers to manage guest IT provisioning, automating database entries and saving administrative time during events.}
-            \resumeItem{Implemented user engagement tracking and automated data reporting, reducing overall administrative event prep time by 10\%.}
+            \resumeItem{Designed and deployed a lightweight, mobile-responsive web platform interfacing with contactless NFC endpoints across physical venues to deliver real-time localized data payloads.}
+            \resumeItem{Engineered backend logging and telemetry scripts to capture and analyze concurrent user interaction events, optimizing endpoint routing and request-response latency for hundreds of users.}
           \resumeItemListEnd
     \resumeSubHeadingListEnd
 
@@ -193,34 +161,33 @@
   \resumeSubHeadingListStart
 
     \resumeSubheading
-      {Social Media \& Content Operations}{June 2023 -- Oct. 2025}
+      {Senior UK Student Recruitment Operations Lead}{May 2023 -- Oct 2025}
       {University of Greenwich}{Greenwich, London}
       \resumeItemListStart
-        \resumeItem{Directed the end-to-end production of digital assets and promotional media for the Faculty of Engineering \& Science, managing campaigns with Premiere Pro, After Effects, and Photoshop.}
-        \resumeItem{Collaborated with researchers and academics to translate complex computer science and engineering concepts into user-friendly digital content, bridging technical knowledge with UX design.}
+        \resumeItem{Coordinated a fast-paced operations team of 10+ ambassadors during peak Clearing cycles, triaging high-volume inbound applicant requests across live CRM databases (Dynamics365), telephony, and LiveChat.}
+        \resumeItem{Maintained strict data integrity and resolved complex applicant queries under high-pressure SLA deadlines, optimizing escalation workflows to minimize response latency.}
       \resumeItemListEnd
 
     \resumeSubheading
-      {Senior UK Student Recruitment Ambassador}{May 2023 -- Oct 2025}
-      {University of Greenwich}{Greenwich, London}
+      {Technical Media \& Content Operations Lead}{June 2023 -- Oct 2025}
+      {Faculty of Engineering \& Science, University of Greenwich}{Greenwich, London}
       \resumeItemListStart
-        \resumeItem{Led a team of 10+ ambassadors during peak Admissions operations, organizing shifts and workflow logs while maintaining a customer-centric support environment.}
-        \resumeItem{Managed inquiry databases and customer interactions across CRM email systems, telephone consoles, LiveChat interfaces, and in-person tours under strict SLA deadlines.}
+        \resumeItem{Collaborated with computer science and engineering faculty researchers to synthesize complex algorithmic and technical concepts into accessible digital technical media and educational demonstrations.}
+        \resumeItem{Analyzed audience engagement analytics and telemetry across multi-channel distribution streams, using data-driven insights to optimize content delivery and increase reach by over 25\%.}
       \resumeItemListEnd
 
   \resumeSubHeadingListEnd
 
 
-%-----------PROGRAMMING SKILLS-----------
-\section{SKILLS}
+%-----------TECHNICAL SKILLS-----------
+\section{TECHNICAL SKILLS}
  \begin{itemize}[leftmargin=0in, label={}]
     \small{\item{
-     \textbf{Languages}           {: Python, Java, JavaScript, HTML/CSS, SQL, PowerShell} \\
-     \textbf{Tools \& Frameworks} {: OpenCV, Mediapipe, Git, GitHub, VS Code, LaTeX, Excel} \\
-     \textbf{Design \& Operations} {: Figma, Adobe Creative Suite (Premiere Pro, After Effects, Photoshop, Lightroom), Dynamics365 CRM, Notion, Trello} \\
+     \textbf{Languages}           {: TypeScript, JavaScript (ES6+), Python, Java, SQL, HTML5/CSS3, PowerShell} \\
+     \textbf{Frameworks \& Cloud} {: React 19, Capacitor 8 (Android/PWA), Firebase (Firestore, Cloud Storage), Tailwind CSS, OpenCV, Mediapipe} \\
+     \textbf{Systems \& Tools}    {: Git, GitHub, Linux/Unix CLI, IndexedDB, RevenueCat, VS Code, Dynamics365, Vitest, CI/CD, LaTeX} \\
     }}
  \end{itemize}
-
 
 %-------------------------------------------
 \end{document}

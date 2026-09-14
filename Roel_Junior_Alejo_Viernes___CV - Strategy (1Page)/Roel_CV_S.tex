@@ -1,0 +1,192 @@
+%-------------------------
+% Resume in Latex
+% Author : Harshibar
+% Based off of: https://github.com/jakeryang/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage[scale=0.90,lf]{FiraMono}
+
+% light-grey
+\definecolor{light-grey}{gray}{0.83}
+\definecolor{dark-grey}{gray}{0.3}
+\definecolor{text-grey}{gray}{.08}
+
+\DeclareRobustCommand{\ebseries}{\fontseries{eb}\selectfont}
+\DeclareTextFontCommand{\texteb}{\ebseries}
+
+% custom underline
+\usepackage{contour}
+\usepackage[normalem]{ulem}
+\renewcommand{\ULdepth}{1.8pt}
+\contourlength{0.8pt}
+\newcommand{\myuline}[1]{%
+  \uline{\phantom{#1}}%
+  \llap{\contour{white}{#1}}%
+}
+
+% custom font: helvetica-style
+\usepackage{tgheros}
+\renewcommand*\familydefault{\sfdefault} 
+\usepackage[T1]{fontenc}
+
+\pagestyle{fancy}
+\fancyhf{} 
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{0in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.75in}
+\addtolength{\textheight}{1.5in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat {\section}{
+    \bfseries \vspace{0pt} \raggedright \large 
+}{}{0em}{}[\color{light-grey} {\titlerule[2pt]} \vspace{-8pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\footnotesize{
+    {#1 \vspace{-1pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & {\color{dark-grey}\small #2}\vspace{1pt}\\ 
+      \textit{#3} & {\color{dark-grey} \small #4}\\ 
+    \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+  \item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & {\color{dark-grey}\small #2} \\
+    \end{tabular*}\vspace{-4pt}
+}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{0pt}}
+
+\color{text-grey}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge Roel-Junior Alejo Viernes} \\ \vspace{4pt}
+    \small \faPhone* \texttt{+447359269842} \hspace{1pt} $|$
+    \hspace{1pt} \faEnvelope \hspace{2pt} \texttt{roel@rjviernes.tech} \hspace{1pt} $|$ 
+    \hspace{1pt} \faGlobe \hspace{2pt} \texttt{rjviernes.tech} \hspace{1pt} $|$
+    \hspace{1pt} \faLinkedin \hspace{2pt}\texttt{rjviernes620} \hspace{1pt} $|$
+    \hspace{1pt} \faGithub \hspace{2pt} \texttt{rjviernes}
+    \\ \vspace{-4pt}
+\end{center}
+
+%-----------EXPERIENCE-----------
+\section{EXPERIENCE}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Social Media \& Content Operations (Communications \& Marketing)}{June 2023 -- Oct 2025}
+      {Faculty of Engineering \& Science, University of Greenwich}{Greenwich, London}
+      \resumeItemListStart
+        \resumeItem{Directed multi-channel digital communications across social media (Instagram, TikTok, LinkedIn) and digital mailers, producing high-impact video case studies, digital newsletters, and visual campaign assets.}
+        \resumeItem{Collaborated with researchers and project leads to translate complex topics into accessible stories; proofread copy, managed editorial deadlines, and evaluated performance metrics to optimize outreach.}
+        \resumeItem{Monitored digital media coverage and cultural trends, compiling regular performance reports to enhance brand visibility, inform content schedules, and align communications with institutional priorities.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Senior UK Student Recruitment \& Outreach Lead}{Jan 2023 -- Oct 2025}
+      {University of Greenwich}{Greenwich, London}
+      \resumeItemListStart
+        \resumeItem{Coordinated multi-channel marketing campaigns and regional events across England and Wales, leading a team of 10+ ambassadors and delivering presentations to engage diverse stakeholders and prospective members.}
+        \resumeItem{Managed stakeholder communications and audience segmentation via CRM databases (Dynamics365), tracking inquiries, maintaining contact databases, and driving campaign conversions under tight SLAs.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Teacher Assistant}{Jan 2022 -- Jul 2022}
+      {Brompton Academy}{Gillingham, Kent}
+      \resumeItemListStart
+        \resumeItem{Synthesized complex concepts into engaging, visual print and digital presentations for cohorts of 30+ students, adapting tone of voice to foster inclusive learning and audience participation.}
+        \resumeItem{Facilitated collaborative workshops and creative problem-solving sessions, guiding participants through structured ideation and building confidence in written and verbal communication.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------EDUCATION-----------
+\section {EDUCATION}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Greenwich}{Sep. 2022 -- Jul. 2025}
+      {Computer Science BSc (Hons)}{Greenwich, London}
+       \resumeItemListStart
+        \resumeItem {\textbf{Honors \& Awards}: Faculty of Engineering \& Science \textit{Making a Difference Award}, University \textit{Instrumental Ambassador Award}}
+        \resumeItem {\textbf{Leadership}: President of Computer Science Society (led community initiatives, DE\&I advocacy, budgeting, and creative workshops), Student Rep}
+        \resumeItem {\textbf{Relevant Focus}: User Experience (UX), Digital Content Optimization, Web Systems (CMS/HTML), Data Analytics, Inclusive Communications}
+        \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{PROJECTS \& COMMUNITY INITIATIVES}
+  \resumeSubHeadingListStart
+    \resumeProjectHeading
+        {Digital Campaigns \& Multimedia Storytelling} {Content Strategy | Video Production}
+        \resumeItemListStart
+          \resumeItem{Spearheaded end-to-end video and social campaigns, directing scripting, filming, and editing in Adobe Premiere and Canva with custom branding and accessible captions to drive measurable engagement.}
+          \resumeItem{Crafted tailored messaging and targeted outreach to elevate underrepresented voices, championing diversity, equity, and social mobility across digital platforms.}
+        \resumeItemListEnd
+        
+    \resumeProjectHeading
+        {Sincerely: Digital Keepsake \& Gifting Platform} {Product Strategy | UX Research | Monetization}
+        \resumeItemListStart
+          \resumeItem{Conceptualized and launched a multi-sensory gifting platform solving the emotional disconnect of traditional e-cards, blending physical stationery romance (interactive wax seals, 300 DPI gift slips) with rich digital media.}
+          \resumeItem{Designed a zero-friction recipient journey requiring no app installation or account creation, while structuring freemium-to-premium subscription tiers to drive sustainable user acquisition and retention.}
+        \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+
+%-----------SKILLS-----------
+\section{SKILLS}
+ \begin{itemize}[leftmargin=0in, label={}]
+    \small{\item{
+     \textbf{Communications \& Editorial} {: Content Planning, Copywriting \& Proofreading, Newsletters \& Mailers (Mailchimp, CRM), Media \& Policy Monitoring, Publication Support, DE\&I Advocacy} \\
+     \textbf{Design \& Multimedia}       {: Canva, Adobe Creative Suite (Premiere Pro, Photoshop, InDesign basics), Video Filming \& Editing, Captions/Branding, Social Media (TikTok, Instagram, LinkedIn)} \\
+     \textbf{Digital Marketing \& Web}   {: CRM Systems (Dynamics365), Website CMS (WordPress, HTML/CSS), Google Analytics, Hootsuite/Buffer, SEO \& Digital Content Optimization, MS Office} \\
+    }}
+ \end{itemize}
+
+\end{document}
