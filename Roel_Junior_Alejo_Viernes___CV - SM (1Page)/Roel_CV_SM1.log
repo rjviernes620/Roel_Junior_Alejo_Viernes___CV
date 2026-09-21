@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.30)  14 SEP 2026 04:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.30)  21 SEP 2026 02:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -406,24 +406,24 @@ File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 (Roel_CV_SM1.aux)
 \openout1 = `Roel_CV_SM1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
 
 (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -440,7 +440,7 @@ ii
 \makeMPintoPDFobject=\count308
 \everyMPtoPDFconversion=\toks30
 )
-Package hyperref Info: Link coloring OFF on input line 136.
+Package hyperref Info: Link coloring OFF on input line 122.
  (Roel_CV_SM1.out) (Roel_CV_SM1.out)
 \@outlinefile=\write3
 \openout3 = `Roel_CV_SM1.out'.
@@ -448,12 +448,12 @@ Package hyperref Info: Link coloring OFF on input line 136.
 \c@mv@tabular=\count309
 \c@mv@boldtabular=\count310
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 141.
+nput line 127.
 
 (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree2.fd)
 LaTeX Font Info:    Trying to load font information for T1+FiraMono-TLF on inpu
-t line 141.
+t line 127.
 
 (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/fira\t1firamono-tlf.fd
 File: T1FiraMono-TLF.fd 2019/10/10 (autoinst) Font definitions for T1/FiraMono-
@@ -462,40 +462,40 @@ TLF.
 LaTeX Font Info:    Font shape `T1/FiraMono-TLF/m/n' in size <10> not available
 
 (Font)              Font shape `T1/FiraMono-TLF/regular/n' tried instead on inp
-ut line 141.
+ut line 127.
 LaTeX Font Info:    Font shape `T1/FiraMono-TLF/regular/n' will be
-(Font)              scaled to size 8.99994pt on input line 141.
+(Font)              scaled to size 8.99994pt on input line 127.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 141.
+(Font)              <7> on input line 127.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 141.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 14
-1.
+(Font)              <5> on input line 127.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 12
+7.
 (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 142.
+nput line 128.
 
 (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 144.
+ input line 130.
 
 (C:\Users\rjvie\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
 mebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 144.
+n input line 130.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 155.
+(Font)              <10.95> on input line 141.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 155.
+(Font)              <8> on input line 141.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 155.
+(Font)              <6> on input line 141.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 158.
+(Font)              <9> on input line 144.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -516,16 +516,16 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `Roel_CV_SM1.out' has not changed.
-(rerunfilecheck)             Checksum: 943541F1A47556582A894FF8FC1BBB80;426.
+(rerunfilecheck)             Checksum: 8FD836CB34D1857AAC8E184A868C28CE;406.
  ) 
 Here is how much of TeX's memory you used:
  15108 strings out of 467871
  264091 string characters out of 5418376
- 685892 words of memory out of 5000000
+ 685895 words of memory out of 5000000
  43769 multiletter control sequences out of 15000+600000
  663509 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,291b,496s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,329b,496s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraMon
 o-Regular.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/rjvie/AppData/Local/Progr
@@ -536,7 +536,7 @@ sy6.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gy
 re/qhvb.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/public/te
 x-gyre/qhvr.pfb><C:/Users/rjvie/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/tex-gyre/qhvri.pfb>
-Output written on Roel_CV_SM1.pdf (1 page, 143912 bytes).
+Output written on Roel_CV_SM1.pdf (1 page, 166019 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
